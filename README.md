@@ -3,7 +3,7 @@
 A Discord bot built with **discord.js** that lets users interactively build and send **Components V2** containers directly from Discord — no code required. Uses select menus, buttons, and modals for a fully in-Discord editing experience.
 
 **Developer:** Ddeveloper  
-**Support Server:** [discord.gg/Fej6jsX8vj](https://discord.gg/Fej6jsX8vj)
+**Support Server:** [Ddeveloper](https://discord.gg/Fej6jsX8vj)
 
 ---
 
@@ -124,4 +124,4 @@ Container-Builder-JS/
 ## Support
 
 Join the support server for help, bug reports, and updates:  
-[discord.gg/Fej6jsX8vj](https://discord.gg/Fej6jsX8vj)
+[Ddeveloper](https://discord.gg/Fej6jsX8vj)
