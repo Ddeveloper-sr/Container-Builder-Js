@@ -1,0 +1,24 @@
+{
+  "name": "ddeveloper-container-builder",
+  "version": "1.0.0",
+  "description": "Interactive Components V2 container builder for Discord — discord.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "components-v2",
+    "container-builder"
+  ],
+  "author": "Ddeveloper",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.0"
+  }
+}
